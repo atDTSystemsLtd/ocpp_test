@@ -43,7 +43,7 @@ The project consists of two Python 3 applications:
 Run following command from the root of the project:
 
 ```shell
-python 3 -m venv .venv
+python3 -m venv .venv
 ```
 
 ### Start CSMS
